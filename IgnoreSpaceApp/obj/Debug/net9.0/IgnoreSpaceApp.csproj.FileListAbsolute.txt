@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/bin/Debug/net9.0/IgnoreSpaceApp
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/bin/Debug/net9.0/IgnoreSpaceApp.deps.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/bin/Debug/net9.0/IgnoreSpaceApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/bin/Debug/net9.0/IgnoreSpaceApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/bin/Debug/net9.0/IgnoreSpaceApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/obj/Debug/net9.0/IgnoreSpaceApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/obj/Debug/net9.0/IgnoreSpaceApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/obj/Debug/net9.0/IgnoreSpaceApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/obj/Debug/net9.0/IgnoreSpaceApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/obj/Debug/net9.0/IgnoreSpaceApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/obj/Debug/net9.0/IgnoreSpaceApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/obj/Debug/net9.0/refint/IgnoreSpaceApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/obj/Debug/net9.0/IgnoreSpaceApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/obj/Debug/net9.0/IgnoreSpaceApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/IgnoreSpaceApp/obj/Debug/net9.0/ref/IgnoreSpaceApp.dll

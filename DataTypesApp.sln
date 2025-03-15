@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypesApp", "DataTypesAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharReadApp", "CharReadApp\CharReadApp.csproj", "{42DA1AE1-0836-46FB-975A-8E8FF6ABF53C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgnoreSpaceApp", "IgnoreSpaceApp\IgnoreSpaceApp.csproj", "{DC00595C-AA0C-4032-AF1A-04DDF976B8ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{42DA1AE1-0836-46FB-975A-8E8FF6ABF53C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42DA1AE1-0836-46FB-975A-8E8FF6ABF53C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42DA1AE1-0836-46FB-975A-8E8FF6ABF53C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC00595C-AA0C-4032-AF1A-04DDF976B8ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC00595C-AA0C-4032-AF1A-04DDF976B8ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC00595C-AA0C-4032-AF1A-04DDF976B8ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC00595C-AA0C-4032-AF1A-04DDF976B8ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
