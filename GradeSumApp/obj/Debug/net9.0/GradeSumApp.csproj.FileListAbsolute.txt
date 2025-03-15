@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/bin/Debug/net9.0/GradeSumApp
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/bin/Debug/net9.0/GradeSumApp.deps.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/bin/Debug/net9.0/GradeSumApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/bin/Debug/net9.0/GradeSumApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/bin/Debug/net9.0/GradeSumApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/obj/Debug/net9.0/GradeSumApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/obj/Debug/net9.0/GradeSumApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/obj/Debug/net9.0/GradeSumApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/obj/Debug/net9.0/GradeSumApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/obj/Debug/net9.0/GradeSumApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/obj/Debug/net9.0/GradeSumApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/obj/Debug/net9.0/refint/GradeSumApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/obj/Debug/net9.0/GradeSumApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/obj/Debug/net9.0/GradeSumApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradeSumApp/obj/Debug/net9.0/ref/GradeSumApp.dll

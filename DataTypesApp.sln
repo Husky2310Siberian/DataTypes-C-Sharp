@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IgnoreSpaceApp", "IgnoreSpa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumesEnterWithReadLine", "ConsumesEnterWithReadLine\ConsumesEnterWithReadLine.csproj", "{E0A60BF2-0655-496C-8F18-3A1132AE0666}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeSumApp", "GradeSumApp\GradeSumApp.csproj", "{1433BEB1-8B06-4D2C-B831-A0E2B88A3DAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{E0A60BF2-0655-496C-8F18-3A1132AE0666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0A60BF2-0655-496C-8F18-3A1132AE0666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0A60BF2-0655-496C-8F18-3A1132AE0666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1433BEB1-8B06-4D2C-B831-A0E2B88A3DAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1433BEB1-8B06-4D2C-B831-A0E2B88A3DAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1433BEB1-8B06-4D2C-B831-A0E2B88A3DAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1433BEB1-8B06-4D2C-B831-A0E2B88A3DAB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
