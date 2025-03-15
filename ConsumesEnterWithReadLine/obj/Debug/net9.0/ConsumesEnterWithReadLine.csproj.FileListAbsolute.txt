@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/bin/Debug/net9.0/ConsumesEnterWithReadLine
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/bin/Debug/net9.0/ConsumesEnterWithReadLine.deps.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/bin/Debug/net9.0/ConsumesEnterWithReadLine.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/bin/Debug/net9.0/ConsumesEnterWithReadLine.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/bin/Debug/net9.0/ConsumesEnterWithReadLine.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/obj/Debug/net9.0/ConsumesEnterWithReadLine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/obj/Debug/net9.0/ConsumesEnterWithReadLine.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/obj/Debug/net9.0/ConsumesEnterWithReadLine.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/obj/Debug/net9.0/ConsumesEnterWithReadLine.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/obj/Debug/net9.0/ConsumesEnterWithReadLine.sourcelink.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/obj/Debug/net9.0/ConsumesEnterWithReadLine.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/obj/Debug/net9.0/refint/ConsumesEnterWithReadLine.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/obj/Debug/net9.0/ConsumesEnterWithReadLine.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/obj/Debug/net9.0/ConsumesEnterWithReadLine.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ConsumesEnterWithReadLine/obj/Debug/net9.0/ref/ConsumesEnterWithReadLine.dll
