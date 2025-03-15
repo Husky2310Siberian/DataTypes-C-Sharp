@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/bin/Debug/net9.0/CharReadApp
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/bin/Debug/net9.0/CharReadApp.deps.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/bin/Debug/net9.0/CharReadApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/bin/Debug/net9.0/CharReadApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/bin/Debug/net9.0/CharReadApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/obj/Debug/net9.0/CharReadApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/obj/Debug/net9.0/CharReadApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/obj/Debug/net9.0/CharReadApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/obj/Debug/net9.0/CharReadApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/obj/Debug/net9.0/CharReadApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/obj/Debug/net9.0/CharReadApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/obj/Debug/net9.0/refint/CharReadApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/obj/Debug/net9.0/CharReadApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/obj/Debug/net9.0/CharReadApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/CharReadApp/obj/Debug/net9.0/ref/CharReadApp.dll
