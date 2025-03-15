@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/bin/Debug/net9.0/DataTypesApp
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/bin/Debug/net9.0/DataTypesApp.deps.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/bin/Debug/net9.0/DataTypesApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/bin/Debug/net9.0/DataTypesApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/bin/Debug/net9.0/DataTypesApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/obj/Debug/net9.0/DataTypesApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/obj/Debug/net9.0/DataTypesApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/obj/Debug/net9.0/DataTypesApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/obj/Debug/net9.0/DataTypesApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/obj/Debug/net9.0/DataTypesApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/obj/Debug/net9.0/DataTypesApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/obj/Debug/net9.0/refint/DataTypesApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/obj/Debug/net9.0/DataTypesApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/obj/Debug/net9.0/DataTypesApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/DataTypesApp/obj/Debug/net9.0/ref/DataTypesApp.dll
