@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GradeSumApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57a532c0ad960d2c0c2c0edb82763007c2726cc1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d0310e357b6a1e4aec8f3469f43d044a6f88fac")]
 [assembly: System.Reflection.AssemblyProductAttribute("GradeSumApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GradeSumApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

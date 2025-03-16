@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/bin/Debug/net9.0/FormatExceptionApp
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/bin/Debug/net9.0/FormatExceptionApp.deps.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/bin/Debug/net9.0/FormatExceptionApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/bin/Debug/net9.0/FormatExceptionApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/bin/Debug/net9.0/FormatExceptionApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/obj/Debug/net9.0/FormatExceptionApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/obj/Debug/net9.0/FormatExceptionApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/obj/Debug/net9.0/FormatExceptionApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/obj/Debug/net9.0/FormatExceptionApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/obj/Debug/net9.0/FormatExceptionApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/obj/Debug/net9.0/FormatExceptionApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/obj/Debug/net9.0/refint/FormatExceptionApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/obj/Debug/net9.0/FormatExceptionApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/obj/Debug/net9.0/FormatExceptionApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/FormatExceptionApp/obj/Debug/net9.0/ref/FormatExceptionApp.dll

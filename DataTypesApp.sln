@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeSumApp", "GradeSumApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerApp", "PowerApp\PowerApp.csproj", "{9D567460-526A-43C1-9B89-6E89C2EE52A0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatExceptionApp", "FormatExceptionApp\FormatExceptionApp.csproj", "{C19ACE3C-298C-4EE1-8137-E7C37DC5765D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{9D567460-526A-43C1-9B89-6E89C2EE52A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D567460-526A-43C1-9B89-6E89C2EE52A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D567460-526A-43C1-9B89-6E89C2EE52A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19ACE3C-298C-4EE1-8137-E7C37DC5765D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19ACE3C-298C-4EE1-8137-E7C37DC5765D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19ACE3C-298C-4EE1-8137-E7C37DC5765D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19ACE3C-298C-4EE1-8137-E7C37DC5765D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
