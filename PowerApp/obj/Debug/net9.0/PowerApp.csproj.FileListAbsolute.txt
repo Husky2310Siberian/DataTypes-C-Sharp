@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/bin/Debug/net9.0/PowerApp
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/bin/Debug/net9.0/PowerApp.deps.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/bin/Debug/net9.0/PowerApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/bin/Debug/net9.0/PowerApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/bin/Debug/net9.0/PowerApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/obj/Debug/net9.0/PowerApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/obj/Debug/net9.0/PowerApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/obj/Debug/net9.0/PowerApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/obj/Debug/net9.0/PowerApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/obj/Debug/net9.0/PowerApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/obj/Debug/net9.0/PowerApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/obj/Debug/net9.0/refint/PowerApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/obj/Debug/net9.0/PowerApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/obj/Debug/net9.0/PowerApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/PowerApp/obj/Debug/net9.0/ref/PowerApp.dll

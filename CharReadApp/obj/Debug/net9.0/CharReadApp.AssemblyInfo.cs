@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CharReadApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03f6f708a093d97071f3efe0e09fa9c85bd2afdf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57a532c0ad960d2c0c2c0edb82763007c2726cc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CharReadApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CharReadApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

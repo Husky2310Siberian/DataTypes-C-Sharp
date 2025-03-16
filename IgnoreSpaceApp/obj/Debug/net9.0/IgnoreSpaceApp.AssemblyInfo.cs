@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IgnoreSpaceApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f7ffab4849b5884896b5ea4ac79c890773642a9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57a532c0ad960d2c0c2c0edb82763007c2726cc1")]
 [assembly: System.Reflection.AssemblyProductAttribute("IgnoreSpaceApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IgnoreSpaceApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
