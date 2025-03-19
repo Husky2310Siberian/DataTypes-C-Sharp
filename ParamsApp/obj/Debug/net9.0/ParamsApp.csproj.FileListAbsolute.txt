@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/bin/Debug/net9.0/ParamsApp
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/bin/Debug/net9.0/ParamsApp.deps.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/bin/Debug/net9.0/ParamsApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/bin/Debug/net9.0/ParamsApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/bin/Debug/net9.0/ParamsApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/obj/Debug/net9.0/ParamsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/obj/Debug/net9.0/ParamsApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/obj/Debug/net9.0/ParamsApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/obj/Debug/net9.0/ParamsApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/obj/Debug/net9.0/ParamsApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/obj/Debug/net9.0/ParamsApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/obj/Debug/net9.0/refint/ParamsApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/obj/Debug/net9.0/ParamsApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/obj/Debug/net9.0/ParamsApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/ParamsApp/obj/Debug/net9.0/ref/ParamsApp.dll
