@@ -20,6 +20,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParamsApp", "ParamsApp\Para
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptionalParams", "OptionalParams\OptionalParams.csproj", "{99CE010E-30F3-44E3-9A6B-80E6E27A2B39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverloadApp", "MethodOverloadApp\MethodOverloadApp.csproj", "{BBB92FD2-5853-456B-85D1-A21639BD1C26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +68,9 @@ Global
 		{99CE010E-30F3-44E3-9A6B-80E6E27A2B39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99CE010E-30F3-44E3-9A6B-80E6E27A2B39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99CE010E-30F3-44E3-9A6B-80E6E27A2B39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB92FD2-5853-456B-85D1-A21639BD1C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB92FD2-5853-456B-85D1-A21639BD1C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB92FD2-5853-456B-85D1-A21639BD1C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB92FD2-5853-456B-85D1-A21639BD1C26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

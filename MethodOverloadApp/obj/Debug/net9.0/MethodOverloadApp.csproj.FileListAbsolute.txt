@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/bin/Debug/net9.0/MethodOverloadApp
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/bin/Debug/net9.0/MethodOverloadApp.deps.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/bin/Debug/net9.0/MethodOverloadApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/bin/Debug/net9.0/MethodOverloadApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/bin/Debug/net9.0/MethodOverloadApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/obj/Debug/net9.0/MethodOverloadApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/obj/Debug/net9.0/MethodOverloadApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/obj/Debug/net9.0/MethodOverloadApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/obj/Debug/net9.0/MethodOverloadApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/obj/Debug/net9.0/MethodOverloadApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/obj/Debug/net9.0/MethodOverloadApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/obj/Debug/net9.0/refint/MethodOverloadApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/obj/Debug/net9.0/MethodOverloadApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/obj/Debug/net9.0/MethodOverloadApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/MethodOverloadApp/obj/Debug/net9.0/ref/MethodOverloadApp.dll
