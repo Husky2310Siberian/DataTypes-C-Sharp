@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/obj/Debug/net9.0/OptionalParams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/obj/Debug/net9.0/OptionalParams.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/obj/Debug/net9.0/OptionalParams.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/obj/Debug/net9.0/OptionalParams.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/obj/Debug/net9.0/OptionalParams.sourcelink.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/bin/Debug/net9.0/OptionalParams
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/bin/Debug/net9.0/OptionalParams.deps.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/bin/Debug/net9.0/OptionalParams.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/bin/Debug/net9.0/OptionalParams.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/bin/Debug/net9.0/OptionalParams.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/obj/Debug/net9.0/OptionalParams.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/obj/Debug/net9.0/refint/OptionalParams.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/obj/Debug/net9.0/OptionalParams.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/obj/Debug/net9.0/OptionalParams.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/OptionalParams/obj/Debug/net9.0/ref/OptionalParams.dll
