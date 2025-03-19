@@ -1,0 +1,15 @@
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/bin/Debug/net9.0/GradesSumSwitchApp
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/bin/Debug/net9.0/GradesSumSwitchApp.deps.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/bin/Debug/net9.0/GradesSumSwitchApp.runtimeconfig.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/bin/Debug/net9.0/GradesSumSwitchApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/bin/Debug/net9.0/GradesSumSwitchApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/obj/Debug/net9.0/GradesSumSwitchApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/obj/Debug/net9.0/GradesSumSwitchApp.AssemblyInfoInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/obj/Debug/net9.0/GradesSumSwitchApp.AssemblyInfo.cs
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/obj/Debug/net9.0/GradesSumSwitchApp.csproj.CoreCompileInputs.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/obj/Debug/net9.0/GradesSumSwitchApp.sourcelink.json
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/obj/Debug/net9.0/GradesSumSwitchApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/obj/Debug/net9.0/refint/GradesSumSwitchApp.dll
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/obj/Debug/net9.0/GradesSumSwitchApp.pdb
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/obj/Debug/net9.0/GradesSumSwitchApp.genruntimeconfig.cache
+/Users/vasiliskr/7.C# .NET/DataTypesApp/GradesSumSwitchApp/obj/Debug/net9.0/ref/GradesSumSwitchApp.dll

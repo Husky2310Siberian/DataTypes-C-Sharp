@@ -1,5 +1,8 @@
 ﻿namespace FormatExceptionApp;
-
+/// <summary>
+/// Reads a string from stdin ,
+/// parse and checks if it is integer with try - catch
+/// </summary>
 class Program
 {
     static void Main(string[] args)
